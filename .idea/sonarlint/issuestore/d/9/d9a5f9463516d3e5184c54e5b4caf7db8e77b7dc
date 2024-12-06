@@ -1,0 +1,25 @@
+
+‹
+java:S2095E"HUse try-with-resources or close this "Connection" in a "finally" clause.(õ›Æ¦8æÖ‹¹2J$eb554381-2fab-4c5d-a678-6710486c48b0
+ˆ
+java:S2095F"EUse try-with-resources or close this "Channel" in a "finally" clause.(ùíô8æÖ‹¹2J$34ce84e6-cf50-415c-8cf8-83bc37d763c6
+œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¯ º¹8—¦ó¹2J$0d93b618-1f7e-4b20-8ba1-56dd0e46ddc5
+~	java:S125,"<This block of commented-out lines of code should be removed.(î¯ÔÉ8œ¦ó¹2J$0dcf65da-5d7a-4bd6-bd12-cd8b4f708505
+ƒ	java:S125."<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8œ¦ó¹2J$5493daff-cd75-482c-a0c3-cda356f2d90b
+ƒ	java:S125C"<This block of commented-out lines of code should be removed.(íäì”üÿÿÿÿ8îÖ‹¹2J$72e07cb2-107f-4124-88af-084e5a497f00
+~	java:S125Q"<This block of commented-out lines of code should be removed.(±¯€¤8ïÖ‹¹2J$4441525f-2701-482f-915a-af34d83f0dbc
+ƒ	java:S125V"<This block of commented-out lines of code should be removed.(°êÀ“ÿÿÿÿÿ8úÖ‹¹2J$4ef321a2-b39f-4076-947a-8a7a8779cd3d
+…
+java:S1128"BRemove this unused import 'com.rabbitmq.client.ConnectionFactory'.(»ùÙÃ8úÖ‹¹2J$b9e44cc4-ff3c-4892-9bed-13081662dda3
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8úÖ‹¹2J$06063e2d-f505-4a33-8c8f-9510c846dd5c
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8úÖ‹¹2J$1454dd30-bc6c-4812-b20e-7370bd84c8fe
+
+java:S1128"GRemove this unused import 'java.util.concurrent.PriorityBlockingQueue'.(ª£ÉÜÿÿÿÿÿ8úÖ‹¹2J$b9fa5623-61c1-4dfe-819b-7c5f072fb449
+t
+java:S1068"2Remove this unused "RETRY_INTERVAL" private field.(ãô;8úÖ‹¹2J$eddb07fd-e0c9-4c81-b763-0155987edf47
+x
+java:S1068 "0Remove this unused "objectMapper" private field.(«çœšşÿÿÿÿ8ûÖ‹¹2J$163d32d4-d57e-4dee-b57d-c112f3657489
+r
+java:S1068#"/Remove this unused "isKeepAlive" private field.(ÿÉñ®8ûÖ‹¹2J$bd2d7344-affa-43a7-b991-fb1355e6bd1c

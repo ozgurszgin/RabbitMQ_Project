@@ -1,0 +1,11 @@
+
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(®Ë·Çûÿÿÿÿ8Åç¹2J$a0869ba1-0f31-4ba6-a376-1f266e3f7b87
+}	java:S125"<This block of commented-out lines of code should be removed.(¿–•8Õ×ç¹2J$dbbe9b10-411d-421b-b3c8-907bc6138fcb
+¦
+java:S2142$"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(¼Ôîàùÿÿÿÿ8±…Ñ¹2J$6b1ef5de-b517-456c-a170-5563f3f8bb5b
+r	java:S106&"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8±…Ñ¹2J$46927573-c381-49e5-8926-790edeca51e4
+ƒ	java:S125("<This block of commented-out lines of code should be removed.(˜öÔêüÿÿÿÿ8Šÿç¹2J$f0f7390c-1aad-4efa-99a7-1bd9ba1eb1fa
+€
+java:S1128"=Remove this unused import 'org.btk.rabbitmq.MessageReceiver'.(ô´¿Ó8Šÿç¹2J$5ee5d421-876c-4db4-ac22-fc33169edf83
+™
+java:S1128"VRemove this unused import 'org.springframework.context.support.MessageSourceAccessor'.(¼íĞ±8Šÿç¹2J$0d1f86fe-44f2-4b22-8f7e-304c988def96

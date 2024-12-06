@@ -1,0 +1,12 @@
+
+ˆ	java:S112'"FDefine and throw a dedicated exception instead of using a generic one.(­œüò8ö¡¹2J$453b7daa-9c67-4797-b345-38308b7f64ca
+œ	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¯ º¹8Ÿö¡¹2J$2a935774-329e-4d77-b937-582f7b669bc6
+‹
+java:S1128"HRemove this unused import 'com.fasterxml.jackson.databind.ObjectMapper'.(´‘¨™8¥ö¡¹2J$646dbf83-3748-41ff-8ab4-9aa96f4e9f0e
+y
+java:S1128"1Remove this unused import 'org.btk.pojo.Message'.(Àû›¾úÿÿÿÿ8¥ö¡¹2J$8b6d2ed2-34f8-4311-bbd6-f80d1f96ef7c
+x
+java:S1128
+"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8¥ö¡¹2J$0c47795b-3eee-4f45-af6f-092bec07334c
+…
+java:S1128"BRemove this unused import 'java.util.concurrent.TimeoutException'.(£‡Ì8¥ö¡¹2J$858dbefe-9d89-47bd-8ea8-c6619af9c08f
